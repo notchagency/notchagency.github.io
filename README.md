@@ -2,7 +2,7 @@
 
 - [] remove webflow badge
 ```
-replace .w-webflow-badge{position:fixed !important;display:none
+replace .w-webflow-badge{position:fixed !important;display:inline-block
 .w-webflow-badge{position:fixed !important;display:none
 ```
 
